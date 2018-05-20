@@ -43,7 +43,7 @@ int main()
 	strcpy(str,"Nam");
 	std::cout<<str<<'\n';
 	std::cout<<sizeof(str)<<'\n';		  //4 bytes = 4 char * 1 byte
-	return 0;
+	return 1;
 }
 
 
